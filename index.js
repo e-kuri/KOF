@@ -1,3 +1,3 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('KOF', () => App);
+import ChatRoom from './Components/Chat/ChatRoom/ChatRoom'
+AppRegistry.registerComponent('KOF', () => ChatRoom);
