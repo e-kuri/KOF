@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.honeywell.kof;
 
 import android.app.Application;
 
